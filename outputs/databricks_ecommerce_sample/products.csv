@@ -1,0 +1,51 @@
+product_id,sku,product_name,category,brand,unit_price_eur,unit_cost_eur,stock_quantity,is_discontinued,created_date
+P00001,SKU-00001,Kopfhörer Schwarz,Elektronik,Spree & Co.,135.77,67.96,84,false,2024-03-17
+P00002,SKU-00002,Bluetooth-Lautsprecher Blau,Elektronik,Mainline,82.47,40.12,217,false,2023-11-29
+P00003,SKU-00003,USB-C Hub Blau,Elektronik,AlpenTech,69.8,41.29,184,false,2023-04-16
+P00004,SKU-00004,Webcam Weiß,Elektronik,Hanseatic,37.46,22.18,236,false,2024-09-08
+P00005,SKU-00005,Schreibtischlampe Schwarz,Home Office,Nordlicht,14.59,8.45,70,false,2025-05-31
+P00006,SKU-00006,Laptopständer Weiß,Home Office,AlpenTech,72.06,41.18,14,false,2024-07-09
+P00007,SKU-00007,Ergonomische Maus Schwarz,Home Office,Rheinwerk,18.42,9.57,167,false,2025-02-11
+P00008,SKU-00008,Notizbuch Grün,Home Office,Mainline,93.41,48.44,69,false,2023-09-30
+P00009,SKU-00009,Trinkflasche Grün,Haushalt,AlpenTech,56.91,25.8,76,false,2024-01-10
+P00010,SKU-00010,Kaffeebecher Grau,Haushalt,AlpenTech,75.05,39.65,17,false,2024-01-20
+P00011,SKU-00011,Aufbewahrungsbox Schwarz,Haushalt,Spree & Co.,120.84,57.71,220,false,2025-03-02
+P00012,SKU-00012,Küchenwaage Schwarz,Haushalt,AlpenTech,136.71,76.6,119,false,2025-04-24
+P00013,SKU-00013,Yogamatte Schwarz,Sport,Hanseatic,143.62,86.91,52,false,2023-08-24
+P00014,SKU-00014,Fitnessband Schwarz,Sport,AlpenTech,99.14,47.83,143,false,2024-01-08
+P00015,SKU-00015,Faszienrolle Blau,Sport,Mainline,14.78,7.3,48,false,2024-03-20
+P00016,SKU-00016,Sporttasche Blau,Sport,Nordlicht,122.13,60.99,239,false,2023-08-11
+P00017,SKU-00017,Reiserucksack Blau,Freizeit,Hanseatic,66.6,28.4,86,false,2023-12-14
+P00018,SKU-00018,Powerbank Grün,Freizeit,Mainline,81.52,35.59,50,false,2025-02-12
+P00019,SKU-00019,Picknickdecke Weiß,Freizeit,Mainline,137.37,84.39,26,false,2024-12-22
+P00020,SKU-00020,Thermobecher Grau,Freizeit,Mainline,35.77,18.5,219,false,2023-12-01
+P00021,SKU-00021,Kopfhörer Grau,Elektronik,Spree & Co.,94.58,50.01,57,false,2023-08-27
+P00022,SKU-00022,Bluetooth-Lautsprecher Grau,Elektronik,Mainline,18.27,10.63,148,true,2023-06-24
+P00023,SKU-00023,USB-C Hub Weiß,Elektronik,Spree & Co.,117.26,49.63,176,false,2023-05-13
+P00024,SKU-00024,Webcam Blau,Elektronik,AlpenTech,25.38,11.39,145,false,2025-02-06
+P00025,SKU-00025,Schreibtischlampe Grau,Home Office,Nordlicht,113.06,54.74,161,true,2025-04-04
+P00026,SKU-00026,Laptopständer Blau,Home Office,Nordlicht,95.04,44.43,208,false,2024-06-26
+P00027,SKU-00027,Ergonomische Maus Blau,Home Office,Rheinwerk,26.36,14.57,39,false,2024-05-08
+P00028,SKU-00028,Notizbuch Weiß,Home Office,AlpenTech,127.06,71.35,168,false,2023-04-18
+P00029,SKU-00029,Trinkflasche Grün,Haushalt,AlpenTech,60.68,30,139,false,2023-11-21
+P00030,SKU-00030,Kaffeebecher Blau,Haushalt,Spree & Co.,18.06,8.12,168,false,2023-08-12
+P00031,SKU-00031,Aufbewahrungsbox Schwarz,Haushalt,AlpenTech,131.15,65.96,161,false,2023-01-11
+P00032,SKU-00032,Küchenwaage Grau,Haushalt,AlpenTech,12.02,5.84,96,false,2024-09-06
+P00033,SKU-00033,Yogamatte Weiß,Sport,AlpenTech,17.92,10.33,124,false,2024-08-17
+P00034,SKU-00034,Fitnessband Grau,Sport,AlpenTech,45.88,24.39,91,false,2025-01-17
+P00035,SKU-00035,Faszienrolle Blau,Sport,Nordlicht,73.5,43.2,244,false,2025-04-15
+P00036,SKU-00036,Sporttasche Schwarz,Sport,Nordlicht,64.75,29.7,16,false,2023-12-07
+P00037,SKU-00037,Reiserucksack Grün,Freizeit,AlpenTech,43.56,25.63,91,false,2025-01-16
+P00038,SKU-00038,Powerbank Schwarz,Freizeit,Spree & Co.,10,5.72,160,false,2024-03-06
+P00039,SKU-00039,Picknickdecke Weiß,Freizeit,Mainline,149.89,69.01,71,false,2025-05-02
+P00040,SKU-00040,Thermobecher Grau,Freizeit,Hanseatic,27.33,14.27,79,false,2023-09-08
+P00041,SKU-00041,Kopfhörer Schwarz,Elektronik,Spree & Co.,31.79,16.43,233,false,2023-05-23
+P00042,SKU-00042,Bluetooth-Lautsprecher Grün,Elektronik,Hanseatic,31.9,19.04,167,false,2023-07-11
+P00043,SKU-00043,USB-C Hub Grün,Elektronik,Rheinwerk,9.89,5.95,58,true,2023-01-18
+P00044,SKU-00044,Webcam Schwarz,Elektronik,Mainline,142.25,88.76,29,false,2023-04-23
+P00045,SKU-00045,Schreibtischlampe Weiß,Home Office,AlpenTech,40.43,20,78,true,2024-11-14
+P00046,SKU-00046,Laptopständer Schwarz,Home Office,Nordlicht,147.36,68.97,235,false,2024-02-01
+P00047,SKU-00047,Ergonomische Maus Weiß,Home Office,Spree & Co.,69.95,30.57,228,false,2024-04-11
+P00048,SKU-00048,Notizbuch Blau,Home Office,Hanseatic,105.44,47.93,117,false,2023-12-28
+P00049,SKU-00049,Trinkflasche Grün,Haushalt,Mainline,14.1,7.42,238,false,2023-12-08
+P00050,SKU-00050,Kaffeebecher Grün,Haushalt,Mainline,60.89,37.18,190,false,2023-08-13
